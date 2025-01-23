@@ -1,15 +1,14 @@
-# Nexus Core
+# Nexus
 
 [![Build Status](https://github.com/FDSLabs/Nexus/workflows/Build%20Nexus%20Core/badge.svg)](https://github.com/FDSLabs/Nexus/actions/workflows/build.yml)
 [![Tests Status](https://github.com/FDSLabs/Nexus/workflows/Tests%20%2F%20Code%20Coverage/badge.svg)](https://github.com/FDSLabs/Nexus/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/FDSLabs/Nexus/branch/main/graph/badge.svg)](https://codecov.io/gh/FDSLabs/Nexus)
 [![Go Report Card](https://goreportcard.com/badge/github.com/FDSLabs/Nexus)](https://goreportcard.com/report/github.com/FDSLabs/Nexus)
 [![license](https://img.shields.io/github/license/FDSLabs/Nexus.svg)](https://github.com/FDSLabs/Nexus/blob/main/LICENSE)
 [![Lines of Code](https://tokei.rs/b1/github/FDSLabs/Nexus)](https://github.com/FDSLabs/Nexus)
 
 Nexus is a scalable and interoperable blockchain platform built using the Cosmos SDK.
 
-## Chain Specifications
+## Testnet Chain Specifications
 
 - **Chain ID**: nexus_1234
 - **Binary**: `nexusd`
