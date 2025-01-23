@@ -70,4 +70,4 @@ See our [security policy](SECURITY.md) for reporting security vulnerabilities.
 
 ## License
 
-This project is licensed under the [Apache-2.0 License](LICENSE).
+This project is licensed under the [GNU Lesser General Public License v3.0 (LGPL-3.0)](LICENSE).
