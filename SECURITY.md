@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-The Nexus team takes security vulnerabilities very seriously. We appreciate your efforts to responsibly disclose your findings and will make every effort to acknowledge your contributions.
+The Foundations team takes security vulnerabilities very seriously. We appreciate your efforts to responsibly disclose your findings and will make every effort to acknowledge your contributions.
 
 ### Reporting Process
 
@@ -26,7 +26,7 @@ The Nexus team takes security vulnerabilities very seriously. We appreciate your
 
 ### In Scope
 
-- Nexus Core (`nexusd`)
+- Nexus (`nexusd`)
 - Smart Contract vulnerabilities
 - Consensus vulnerabilities
 - Network security issues
