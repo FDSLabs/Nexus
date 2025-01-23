@@ -7,7 +7,7 @@ The Foundations team takes security vulnerabilities very seriously. We appreciat
 ### Reporting Process
 
 1. **DO NOT** file a public issue
-2. Email your findings to [security@foundations.org](mailto:security@foundations.org)
+2. Email your findings to [security@foundryunited.io](mailto:security@foundryunited.io)
 3. Include as much information as possible:
    - A detailed description of the vulnerability
    - Steps to reproduce the issue
