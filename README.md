@@ -33,7 +33,7 @@ Nexus is a scalable and interoperable blockchain platform built using the Cosmos
 
 ## Documentation
 
-For detailed documentation, visit our [docs](docs/) directory or our [official documentation website](https://docs.nexus.network).
+For detailed documentation, visit our [docs](docs/) directory.
 
 ## Development
 
